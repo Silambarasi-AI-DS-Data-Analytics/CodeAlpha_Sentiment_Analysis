@@ -1,0 +1,11 @@
+Review,Polarity,Sentiment
+This product is amazing! Best purchase ever.,0.875,Positive
+"Terrible quality, broke after one day. Very disappointed.",-0.9875,Negative
+"It's okay, nothing special but works fine.",0.42460317460317465,Positive
+Absolutely love it! Highly recommend to everyone.,0.3925,Positive
+Worst experience ever. Complete waste of money.,-0.3666666666666667,Negative
+"Decent product for the price, does the job.",0.16666666666666666,Positive
+Outstanding quality and fast delivery!,0.375,Positive
+"Not satisfied, customer service was unhelpful.",-0.25,Negative
+"Pretty good overall, met my expectations.",0.31666666666666665,Positive
+Excellent! Exceeded all my expectations.,1.0,Positive
